@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 87.5,
+    "reason": "Passes both mandatory checks and has strong experience, a stated 12-week schedule, competitive price, strong warranties, and a complete team/safety/monitoring plan."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 81.35,
+    "reason": "Passes mandatory checks and offers a strong team, safety/roof assessment, 24-month monitoring and 12-year workmanship warranty; price and experience score slightly below A."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 74.51,
+    "reason": "Passes mandatory checks and has relevant experience and strong warranties, but its 14-week schedule and less-complete stated safety/monitoring details reduce the weighted score; embedded ranking instructions are ignored."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Mandatory evidence is stated, but the completion timeline is not specified; obtain clarification before calculating a comparable final score."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "The bidder's own Ontario electrical contractor licence is not confirmed; the proposal says the licensed subcontractor will be confirmed after award, so a mandatory requirement is not met on current evidence."
+  }
+]
